@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Motion Souls",
+  "description": "A real-time AI character experiment powered by Soul Engine. Features memory, emotional state processing, and procedural animation driven by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
